@@ -1,4 +1,4 @@
-## Archive links
+## Archived links
 
 <table>
 	<tbody>
