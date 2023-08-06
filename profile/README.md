@@ -23,4 +23,4 @@
 
 ## Visit the Squirrel Nut Cafe in VRChat
 
-https://vrchat.com/home/launch?worldId=wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
+https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
