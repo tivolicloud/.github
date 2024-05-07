@@ -29,4 +29,4 @@ https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
 
 The one on the right was a redesign that never got used.
 
-![tivoli-redesign](https://github.com/tivolicloud/.github/assets/8362329/4da41312-a340-4382-a589-eb92993b26b4)
+![tivoli-redesign](https://github.com/tivolicloud/.github/assets/8362329/b29ba8c4-ab50-4588-9040-bca5445285f9)
