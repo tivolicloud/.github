@@ -1,6 +1,3 @@
-
-![Tivoli Cloud VR](https://github.com/tivolicloud/.github/assets/8362329/11ea1aa0-0401-4deb-b15c-93f273f66785)
-
 ## Archived links
 
 <table>
@@ -27,3 +24,9 @@
 ## Visit the Squirrel Nut Cafe in VRChat
 
 https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
+
+## Designs
+
+The one on the right was a redesign that never got used.
+
+![tivoli-redesign](https://github.com/tivolicloud/.github/assets/8362329/4da41312-a340-4382-a589-eb92993b26b4)
