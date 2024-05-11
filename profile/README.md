@@ -25,6 +25,10 @@
 
 https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
 
+## Screenshots and videos
+
+*TODO: will be added*
+
 ## Designs
 
 The one on the right was a redesign that never got used.
