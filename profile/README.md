@@ -34,3 +34,7 @@ https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
 The one on the right was a redesign that never got used.
 
 ![tivoli-redesign](https://github.com/tivolicloud/.github/assets/8362329/72669a6e-3968-42e5-946e-1842ad8ee354)
+
+## Forks
+
+Check out the last remaining High Fidelity fork, Overte: https://overte.org
