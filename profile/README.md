@@ -21,6 +21,11 @@
 	</tbody>
 </table>
 
+## Other links
+
+- https://vr.fandom.com/wiki/Tivoli_Cloud_VR
+- *TODO*: there are many more!
+
 ## Visit the Squirrel Nut Cafe in VRChat
 
 https://vrch.at/wrld_2611b26f-2447-4b94-a8d4-f133a990fb71
